@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cbdb3d1.chunk.css",
+    "main.js": "/static/js/main.d4da3b4a.chunk.js",
+    "main.js.map": "/static/js/main.d4da3b4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.757f632c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.757f632c.js.map",
+    "static/js/2.9834a6d5.chunk.js": "/static/js/2.9834a6d5.chunk.js",
+    "static/js/2.9834a6d5.chunk.js.map": "/static/js/2.9834a6d5.chunk.js.map",
+    "static/js/3.f5d37c27.chunk.js": "/static/js/3.f5d37c27.chunk.js",
+    "static/js/3.f5d37c27.chunk.js.map": "/static/js/3.f5d37c27.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5cbdb3d1.chunk.css.map": "/static/css/main.5cbdb3d1.chunk.css.map",
+    "static/js/2.9834a6d5.chunk.js.LICENSE.txt": "/static/js/2.9834a6d5.chunk.js.LICENSE.txt",
+    "static/media/NFT2.6957a2e4.jpg": "/static/media/NFT2.6957a2e4.jpg",
+    "static/media/NFT3.6957a2e4.jpg": "/static/media/NFT3.6957a2e4.jpg",
+    "static/media/index.css": "/static/media/background.b05792cc.jpg",
+    "static/media/down-arrow.1c92b0d0.png": "/static/media/down-arrow.1c92b0d0.png",
+    "static/media/loader2.c6ba50aa.gif": "/static/media/loader2.c6ba50aa.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.757f632c.js",
+    "static/js/2.9834a6d5.chunk.js",
+    "static/css/main.5cbdb3d1.chunk.css",
+    "static/js/main.d4da3b4a.chunk.js"
+  ]
+}
